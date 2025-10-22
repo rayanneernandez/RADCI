@@ -1,0 +1,16 @@
+{
+    "title": "teste",
+    "description": "teste",
+    "questions": [
+        {
+            "text": "teste",
+            "type": "multiple",
+            "required": false,
+            "options": [
+                "Teste",
+                "testge2"
+            ]
+        }
+    ],
+    "recipientType": "cidadaos"
+}
